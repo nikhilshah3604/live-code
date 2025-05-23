@@ -1,14 +1,19 @@
-Live Code
-A minimalistic live code editor built with HTML and CSS.
-GitHub
+# 🖥️ Live Code
 
-Demo
-You can view the live demo here: Live Demo
+A simple web project demonstrating basic HTML and CSS.
 
-Features
-Real-time code editing with instant preview
+##  Project Overview
 
-Clean and responsive user interface
+This project showcases a basic structure of a web page using HTML and CSS. It's designed for beginners to understand the fundamentals of web development.
 
-Lightweight and easy to customize
-GitHub
+## 🚀 Features
+
+- **Responsive Design**: Ensures compatibility across various devices.
+- **Clean Layout**: Organized structure for easy readability and maintenance.
+- **Modular CSS**: Separate styling for better scalability.
+
+## 📷 Screenshot 
+
+
+![image](https://github.com/user-attachments/assets/3f721f3e-8255-4322-9ac3-3ed6831d5fcf)
+
